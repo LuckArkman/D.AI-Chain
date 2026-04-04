@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\Aethos.Infrastructure.AI.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\Aethos.Infrastructure.AI.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\Aethos.Infrastructure.AI.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\Aethos.Infrastructure.AI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\Aethos.Infrastructure.AI.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\Aethos.Infrastructure.AI.csproj",
         "projectName": "Aethos.Infrastructure.AI",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\Aethos.Infrastructure.AI.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\Aethos.Infrastructure.AI.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.AI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

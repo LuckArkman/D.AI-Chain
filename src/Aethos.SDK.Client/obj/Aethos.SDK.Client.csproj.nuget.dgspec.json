@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.SDK.Client\\Aethos.SDK.Client.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.SDK.Client\\Aethos.SDK.Client.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.SDK.Client\\Aethos.SDK.Client.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.SDK.Client\\Aethos.SDK.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.SDK.Client\\Aethos.SDK.Client.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.SDK.Client\\Aethos.SDK.Client.csproj",
         "projectName": "Aethos.SDK.Client",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.SDK.Client\\Aethos.SDK.Client.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.SDK.Client\\Aethos.SDK.Client.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.SDK.Client\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.SDK.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

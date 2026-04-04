@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Network\\Aethos.Infrastructure.Network.csproj",
+      "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Network\\Aethos.Infrastructure.Network.csproj",
       "projectName": "Aethos.Infrastructure.Network",
-      "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Network\\Aethos.Infrastructure.Network.csproj",
+      "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Network\\Aethos.Infrastructure.Network.csproj",
       "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-      "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Network\\obj\\",
+      "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Network\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

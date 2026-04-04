@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Core.Math\\Aethos.Core.Math.csproj",
+      "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Core.Math\\Aethos.Core.Math.csproj",
       "projectName": "Aethos.Core.Math",
-      "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Math\\Aethos.Core.Math.csproj",
+      "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Math\\Aethos.Core.Math.csproj",
       "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-      "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Math\\obj\\",
+      "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Math\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

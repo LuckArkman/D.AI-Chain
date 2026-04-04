@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Blockchain\\Aethos.Infrastructure.Blockchain.csproj",
+      "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Blockchain\\Aethos.Infrastructure.Blockchain.csproj",
       "projectName": "Aethos.Infrastructure.Blockchain",
-      "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Blockchain\\Aethos.Infrastructure.Blockchain.csproj",
+      "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Blockchain\\Aethos.Infrastructure.Blockchain.csproj",
       "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-      "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Blockchain\\obj\\",
+      "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Blockchain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

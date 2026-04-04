@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\Aethos.Contracts.L1.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\Aethos.Contracts.L1.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\Aethos.Contracts.L1.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\Aethos.Contracts.L1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\Aethos.Contracts.L1.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\Aethos.Contracts.L1.csproj",
         "projectName": "Aethos.Contracts.L1",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\Aethos.Contracts.L1.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\Aethos.Contracts.L1.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Contracts.L1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

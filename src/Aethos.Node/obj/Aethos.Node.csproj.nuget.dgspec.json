@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Node\\Aethos.Node.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Node\\Aethos.Node.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Node\\Aethos.Node.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Node\\Aethos.Node.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Node\\Aethos.Node.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Node\\Aethos.Node.csproj",
         "projectName": "Aethos.Node",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Node\\Aethos.Node.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Node\\Aethos.Node.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Node\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Node\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3FvelnvDGx0=",
+  "dgSpecHash": "vN7MPE8jyBA=",
   "success": true,
-  "projectFilePath": "D:\\D.AI-Chain\\src\\Aethos.Tests\\Aethos.Tests.csproj",
+  "projectFilePath": "d:\\D.AI-Chain\\src\\Aethos.Tests\\Aethos.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MPLopes\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
