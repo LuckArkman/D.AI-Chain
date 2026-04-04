@@ -1,0 +1,12 @@
+D:\D.AI-Chain\src\Aethos.Core.Persistence\bin\Debug\net8.0\Aethos.Core.Persistence.deps.json
+D:\D.AI-Chain\src\Aethos.Core.Persistence\bin\Debug\net8.0\Aethos.Core.Persistence.dll
+D:\D.AI-Chain\src\Aethos.Core.Persistence\bin\Debug\net8.0\Aethos.Core.Persistence.pdb
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.AssemblyInfoInputs.cache
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.AssemblyInfo.cs
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.csproj.CoreCompileInputs.cache
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.sourcelink.json
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.dll
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\refint\Aethos.Core.Persistence.dll
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.pdb
+D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\ref\Aethos.Core.Persistence.dll

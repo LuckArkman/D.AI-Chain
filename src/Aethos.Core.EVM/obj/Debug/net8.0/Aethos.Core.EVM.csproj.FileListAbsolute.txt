@@ -1,0 +1,12 @@
+D:\D.AI-Chain\src\Aethos.Core.EVM\bin\Debug\net8.0\Aethos.Core.EVM.deps.json
+D:\D.AI-Chain\src\Aethos.Core.EVM\bin\Debug\net8.0\Aethos.Core.EVM.dll
+D:\D.AI-Chain\src\Aethos.Core.EVM\bin\Debug\net8.0\Aethos.Core.EVM.pdb
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.AssemblyInfoInputs.cache
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.AssemblyInfo.cs
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.csproj.CoreCompileInputs.cache
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.sourcelink.json
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.dll
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\refint\Aethos.Core.EVM.dll
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.pdb
+D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\ref\Aethos.Core.EVM.dll

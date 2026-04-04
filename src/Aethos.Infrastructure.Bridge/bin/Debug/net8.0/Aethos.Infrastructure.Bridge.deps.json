@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aethos.Infrastructure.Bridge/1.0.0": {
+        "runtime": {
+          "Aethos.Infrastructure.Bridge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aethos.Infrastructure.Bridge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

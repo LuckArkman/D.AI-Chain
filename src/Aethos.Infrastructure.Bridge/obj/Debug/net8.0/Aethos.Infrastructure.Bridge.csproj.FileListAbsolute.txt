@@ -1,0 +1,12 @@
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\bin\Debug\net8.0\Aethos.Infrastructure.Bridge.deps.json
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\bin\Debug\net8.0\Aethos.Infrastructure.Bridge.dll
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\bin\Debug\net8.0\Aethos.Infrastructure.Bridge.pdb
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\Aethos.Infrastructure.Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\Aethos.Infrastructure.Bridge.AssemblyInfoInputs.cache
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\Aethos.Infrastructure.Bridge.AssemblyInfo.cs
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\Aethos.Infrastructure.Bridge.csproj.CoreCompileInputs.cache
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\Aethos.Infrastructure.Bridge.sourcelink.json
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\Aethos.Infrastructure.Bridge.dll
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\refint\Aethos.Infrastructure.Bridge.dll
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\Aethos.Infrastructure.Bridge.pdb
+D:\D.AI-Chain\src\Aethos.Infrastructure.Bridge\obj\Debug\net8.0\ref\Aethos.Infrastructure.Bridge.dll

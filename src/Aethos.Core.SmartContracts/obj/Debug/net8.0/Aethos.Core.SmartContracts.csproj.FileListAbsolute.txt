@@ -1,0 +1,12 @@
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\bin\Debug\net8.0\Aethos.Core.SmartContracts.deps.json
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\bin\Debug\net8.0\Aethos.Core.SmartContracts.dll
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\bin\Debug\net8.0\Aethos.Core.SmartContracts.pdb
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\Aethos.Core.SmartContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\Aethos.Core.SmartContracts.AssemblyInfoInputs.cache
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\Aethos.Core.SmartContracts.AssemblyInfo.cs
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\Aethos.Core.SmartContracts.csproj.CoreCompileInputs.cache
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\Aethos.Core.SmartContracts.sourcelink.json
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\Aethos.Core.SmartContracts.dll
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\refint\Aethos.Core.SmartContracts.dll
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\Aethos.Core.SmartContracts.pdb
+D:\D.AI-Chain\src\Aethos.Core.SmartContracts\obj\Debug\net8.0\ref\Aethos.Core.SmartContracts.dll

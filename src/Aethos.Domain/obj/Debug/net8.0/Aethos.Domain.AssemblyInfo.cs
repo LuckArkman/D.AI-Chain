@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aethos.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa91812be806ae8b441d60ff0dbdbed71fe5790")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d590a01fd1f42c7d499f4c63196516c41526d8cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aethos.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aethos.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

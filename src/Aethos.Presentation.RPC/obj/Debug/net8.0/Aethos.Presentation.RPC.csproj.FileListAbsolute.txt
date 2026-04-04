@@ -1,0 +1,12 @@
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\bin\Debug\net8.0\Aethos.Presentation.RPC.deps.json
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\bin\Debug\net8.0\Aethos.Presentation.RPC.dll
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\bin\Debug\net8.0\Aethos.Presentation.RPC.pdb
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.AssemblyInfoInputs.cache
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.AssemblyInfo.cs
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.csproj.CoreCompileInputs.cache
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.sourcelink.json
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.dll
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\refint\Aethos.Presentation.RPC.dll
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.pdb
+D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\ref\Aethos.Presentation.RPC.dll

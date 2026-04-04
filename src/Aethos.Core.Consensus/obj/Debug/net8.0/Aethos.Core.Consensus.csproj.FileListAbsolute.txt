@@ -1,0 +1,12 @@
+D:\D.AI-Chain\src\Aethos.Core.Consensus\bin\Debug\net8.0\Aethos.Core.Consensus.deps.json
+D:\D.AI-Chain\src\Aethos.Core.Consensus\bin\Debug\net8.0\Aethos.Core.Consensus.dll
+D:\D.AI-Chain\src\Aethos.Core.Consensus\bin\Debug\net8.0\Aethos.Core.Consensus.pdb
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\Aethos.Core.Consensus.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\Aethos.Core.Consensus.AssemblyInfoInputs.cache
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\Aethos.Core.Consensus.AssemblyInfo.cs
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\Aethos.Core.Consensus.csproj.CoreCompileInputs.cache
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\Aethos.Core.Consensus.sourcelink.json
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\Aethos.Core.Consensus.dll
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\refint\Aethos.Core.Consensus.dll
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\Aethos.Core.Consensus.pdb
+D:\D.AI-Chain\src\Aethos.Core.Consensus\obj\Debug\net8.0\ref\Aethos.Core.Consensus.dll

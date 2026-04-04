@@ -1,0 +1,12 @@
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\bin\Debug\net8.0\Aethos.Math.FixedPoint.deps.json
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\bin\Debug\net8.0\Aethos.Math.FixedPoint.dll
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\bin\Debug\net8.0\Aethos.Math.FixedPoint.pdb
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.AssemblyInfoInputs.cache
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.AssemblyInfo.cs
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.csproj.CoreCompileInputs.cache
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.sourcelink.json
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.dll
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\refint\Aethos.Math.FixedPoint.dll
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.pdb
+D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\ref\Aethos.Math.FixedPoint.dll

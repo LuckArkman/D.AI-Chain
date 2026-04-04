@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aethos.Core.Consensus/1.0.0": {
+        "runtime": {
+          "Aethos.Core.Consensus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aethos.Core.Consensus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
