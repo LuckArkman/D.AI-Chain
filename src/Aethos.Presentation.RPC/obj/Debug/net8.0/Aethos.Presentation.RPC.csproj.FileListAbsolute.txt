@@ -10,3 +10,6 @@ D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.R
 D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\refint\Aethos.Presentation.RPC.dll
 D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.pdb
 D:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\ref\Aethos.Presentation.RPC.dll
+d:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.csproj.AssemblyReference.cache
+d:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\rpswa.dswa.cache.json
+d:\D.AI-Chain\src\Aethos.Presentation.RPC\obj\Debug\net8.0\Aethos.Presentation.RPC.MvcApplicationPartsAssemblyInfo.cache

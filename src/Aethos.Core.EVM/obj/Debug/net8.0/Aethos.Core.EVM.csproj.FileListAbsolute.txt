@@ -10,3 +10,9 @@ D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.dll
 D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\refint\Aethos.Core.EVM.dll
 D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.pdb
 D:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\ref\Aethos.Core.EVM.dll
+d:\D.AI-Chain\src\Aethos.Core.EVM\bin\Debug\net8.0\Aethos.Core.Persistence.dll
+d:\D.AI-Chain\src\Aethos.Core.EVM\bin\Debug\net8.0\Aethos.Domain.dll
+d:\D.AI-Chain\src\Aethos.Core.EVM\bin\Debug\net8.0\Aethos.Domain.pdb
+d:\D.AI-Chain\src\Aethos.Core.EVM\bin\Debug\net8.0\Aethos.Core.Persistence.pdb
+d:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.Core.EVM.csproj.AssemblyReference.cache
+d:\D.AI-Chain\src\Aethos.Core.EVM\obj\Debug\net8.0\Aethos.C.86091215.Up2Date

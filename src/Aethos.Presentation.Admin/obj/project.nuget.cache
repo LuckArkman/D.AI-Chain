@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1FTVNolESYA=",
+  "dgSpecHash": "9MhDMsf89MI=",
   "success": true,
-  "projectFilePath": "D:\\D.AI-Chain\\src\\Aethos.Presentation.Admin\\Aethos.Presentation.Admin.csproj",
+  "projectFilePath": "d:\\D.AI-Chain\\src\\Aethos.Presentation.Admin\\Aethos.Presentation.Admin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.24\\microsoft.aspnetcore.openapi.8.0.24.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

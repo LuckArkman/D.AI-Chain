@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj",
         "projectName": "Aethos.Core.Governance",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Governance\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Governance\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [

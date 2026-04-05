@@ -10,3 +10,7 @@ D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persisten
 D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\refint\Aethos.Core.Persistence.dll
 D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.pdb
 D:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\ref\Aethos.Core.Persistence.dll
+d:\D.AI-Chain\src\Aethos.Core.Persistence\bin\Debug\net8.0\Aethos.Domain.dll
+d:\D.AI-Chain\src\Aethos.Core.Persistence\bin\Debug\net8.0\Aethos.Domain.pdb
+d:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.Core.Persistence.csproj.AssemblyReference.cache
+d:\D.AI-Chain\src\Aethos.Core.Persistence\obj\Debug\net8.0\Aethos.C.33C099C2.Up2Date

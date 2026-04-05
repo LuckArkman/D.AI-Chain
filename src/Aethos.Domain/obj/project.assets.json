@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
+      "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
       "projectName": "Aethos.Domain",
-      "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
+      "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
       "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-      "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\obj\\",
+      "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "fallbackFolders": [

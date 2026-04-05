@@ -113,3 +113,11 @@ d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\runtimes\win\lib\net6.0\Sys
 d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Domain.dll
 d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Domain.pdb
+d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Core.AI.LSTM.dll
+d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Core.EVM.dll
+d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Core.Persistence.dll
+d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Math.FixedPoint.dll
+d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Math.FixedPoint.pdb
+d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Core.AI.LSTM.pdb
+d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Core.Persistence.pdb
+d:\D.AI-Chain\src\Aethos.Tests.Unit\bin\Debug\net8.0\Aethos.Core.EVM.pdb

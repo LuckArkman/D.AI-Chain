@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj",
+      "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj",
       "projectName": "Aethos.Infrastructure.Cache",
-      "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj",
+      "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj",
       "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-      "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\obj\\",
+      "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "fallbackFolders": [

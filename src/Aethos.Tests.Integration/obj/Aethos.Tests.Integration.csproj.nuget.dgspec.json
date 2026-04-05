@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj",
         "projectName": "Aethos.Tests.Integration",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [

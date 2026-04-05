@@ -488,11 +488,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Presentation.Admin\\Aethos.Presentation.Admin.csproj",
+      "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Presentation.Admin\\Aethos.Presentation.Admin.csproj",
       "projectName": "Aethos.Presentation.Admin",
-      "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Presentation.Admin\\Aethos.Presentation.Admin.csproj",
+      "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Presentation.Admin\\Aethos.Presentation.Admin.csproj",
       "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-      "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Presentation.Admin\\obj\\",
+      "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Presentation.Admin\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "fallbackFolders": [

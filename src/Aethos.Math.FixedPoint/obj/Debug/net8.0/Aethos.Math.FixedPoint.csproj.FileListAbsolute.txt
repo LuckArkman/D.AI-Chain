@@ -10,3 +10,7 @@ D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint
 D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\refint\Aethos.Math.FixedPoint.dll
 D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.pdb
 D:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\ref\Aethos.Math.FixedPoint.dll
+d:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.Math.FixedPoint.csproj.AssemblyReference.cache
+d:\D.AI-Chain\src\Aethos.Math.FixedPoint\bin\Debug\net8.0\Aethos.Domain.dll
+d:\D.AI-Chain\src\Aethos.Math.FixedPoint\bin\Debug\net8.0\Aethos.Domain.pdb
+d:\D.AI-Chain\src\Aethos.Math.FixedPoint\obj\Debug\net8.0\Aethos.M.915D58F8.Up2Date

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj",
         "projectName": "Aethos.Core.Consensus",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [

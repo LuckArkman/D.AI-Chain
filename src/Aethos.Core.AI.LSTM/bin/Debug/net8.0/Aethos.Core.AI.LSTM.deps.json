@@ -7,14 +7,47 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Aethos.Core.AI.LSTM/1.0.0": {
+        "dependencies": {
+          "Aethos.Domain": "1.0.0",
+          "Aethos.Math.FixedPoint": "1.0.0"
+        },
         "runtime": {
           "Aethos.Core.AI.LSTM.dll": {}
+        }
+      },
+      "Aethos.Domain/1.0.0": {
+        "runtime": {
+          "Aethos.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Aethos.Math.FixedPoint/1.0.0": {
+        "dependencies": {
+          "Aethos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Aethos.Math.FixedPoint.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Aethos.Core.AI.LSTM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aethos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aethos.Math.FixedPoint/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Core.SmartContracts\\Aethos.Core.SmartContracts.csproj",
+      "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Core.SmartContracts\\Aethos.Core.SmartContracts.csproj",
       "projectName": "Aethos.Core.SmartContracts",
-      "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.SmartContracts\\Aethos.Core.SmartContracts.csproj",
+      "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.SmartContracts\\Aethos.Core.SmartContracts.csproj",
       "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-      "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Core.SmartContracts\\obj\\",
+      "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Core.SmartContracts\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
       "fallbackFolders": [

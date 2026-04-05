@@ -18,5 +18,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" />
+    <ProjectReference Include="..\Aethos.Math.FixedPoint\Aethos.Math.FixedPoint.csproj" />
+    <ProjectReference Include="..\Aethos.Core.AI.LSTM\Aethos.Core.AI.LSTM.csproj" />
+    <ProjectReference Include="..\Aethos.Core.Persistence\Aethos.Core.Persistence.csproj" />
+    <ProjectReference Include="..\Aethos.Core.EVM\Aethos.Core.EVM.csproj" />
   </ItemGroup>
 </Project>

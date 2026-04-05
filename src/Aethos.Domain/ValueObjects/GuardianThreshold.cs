@@ -11,14 +11,14 @@ public readonly record struct GuardianThreshold
         MultiSigLimit = multiSigLimit;
     }
 
-    public static GuardianThreshold Create(decimal autonomousLimitEth, decimal multiSigLimitEth)
+    public static GuardianThreshold Create(decimal autonomousLimit, decimal multiSigLimit)
     {
-        if (autonomousLimitEth < 0m)
-            throw new ArgumentException("Autonomous limit cannot be negative.", nameof(autonomousLimitEth));
+        if (autonomousLimit < 0 || multiSigLimit < 0)
+            throw new ArgumentException("Limits cannot be negative.");
 
-        if (multiSigLimitEth < autonomousLimitEth)
-            throw new ArgumentException("MultiSig limit must be greater or equal to autonomous limit.", nameof(multiSigLimitEth));
+        if (multiSigLimit < autonomousLimit)
+            throw new ArgumentException("MultiSig limit must be higher than Autonomous limit.");
 
-        return new GuardianThreshold(autonomousLimitEth, multiSigLimitEth);
+        return new GuardianThreshold(autonomousLimit, multiSigLimit);
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\Aethos.Tests.Performance.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\Aethos.Tests.Performance.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\Aethos.Tests.Performance.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\Aethos.Tests.Performance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\Aethos.Tests.Performance.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\Aethos.Tests.Performance.csproj",
         "projectName": "Aethos.Tests.Performance",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\Aethos.Tests.Performance.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\Aethos.Tests.Performance.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Tests.Performance\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [

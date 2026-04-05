@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aethos.Infrastructure.Cache")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d590a01fd1f42c7d499f4c63196516c41526d8cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4edba61828cf6dec0e07b0e541224baad21a1592")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aethos.Infrastructure.Cache")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aethos.Infrastructure.Cache")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

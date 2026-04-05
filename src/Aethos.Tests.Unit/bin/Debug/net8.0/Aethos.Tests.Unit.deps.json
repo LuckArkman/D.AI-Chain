@@ -8,7 +8,11 @@
     ".NETCoreApp,Version=v8.0": {
       "Aethos.Tests.Unit/1.0.0": {
         "dependencies": {
+          "Aethos.Core.AI.LSTM": "1.0.0",
+          "Aethos.Core.EVM": "1.0.0",
+          "Aethos.Core.Persistence": "1.0.0",
           "Aethos.Domain": "1.0.0",
+          "Aethos.Math.FixedPoint": "1.0.0",
           "FluentAssertions": "7.0.0",
           "Microsoft.NET.Test.Sdk": "17.12.0",
           "xunit": "2.9.2"
@@ -442,9 +446,55 @@
           }
         }
       },
+      "Aethos.Core.AI.LSTM/1.0.0": {
+        "dependencies": {
+          "Aethos.Domain": "1.0.0",
+          "Aethos.Math.FixedPoint": "1.0.0"
+        },
+        "runtime": {
+          "Aethos.Core.AI.LSTM.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Aethos.Core.EVM/1.0.0": {
+        "dependencies": {
+          "Aethos.Core.Persistence": "1.0.0",
+          "Aethos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Aethos.Core.EVM.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Aethos.Core.Persistence/1.0.0": {
+        "dependencies": {
+          "Aethos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Aethos.Core.Persistence.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Aethos.Domain/1.0.0": {
         "runtime": {
           "Aethos.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Aethos.Math.FixedPoint/1.0.0": {
+        "dependencies": {
+          "Aethos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Aethos.Math.FixedPoint.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -584,7 +634,27 @@
       "path": "xunit.extensibility.execution/2.9.2",
       "hashPath": "xunit.extensibility.execution.2.9.2.nupkg.sha512"
     },
+    "Aethos.Core.AI.LSTM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aethos.Core.EVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aethos.Core.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Aethos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aethos.Math.FixedPoint/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

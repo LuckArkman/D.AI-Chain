@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Application\\Aethos.Application.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Application\\Aethos.Application.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Application\\Aethos.Application.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Application\\Aethos.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Application\\Aethos.Application.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Application\\Aethos.Application.csproj",
         "projectName": "Aethos.Application",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Application\\Aethos.Application.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Application\\Aethos.Application.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Application\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Application\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
