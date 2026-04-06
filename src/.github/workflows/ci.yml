@@ -1,0 +1,67 @@
+name: Aethos Continuous Integration
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    services:
+      redis:
+        image: redis
+        ports:
+          - 6379:6379
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup .NET 8
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x
+
+    - name: Restore dependencies
+      run: dotnet restore d:/D.AI-Chain/src/AethosLedger.sln
+
+    - name: Build Solution
+      run: dotnet build d:/D.AI-Chain/src/AethosLedger.sln --no-restore -c Release
+
+    - name: Run Massive Unit Tests
+      run: dotnet test d:/D.AI-Chain/src/Aethos.Tests.Unit/Aethos.Tests.Unit.csproj --no-build -c Release --logger "trx;LogFileName=unit-results.trx"
+
+    - name: Run Integration Tests (Testcontainers)
+      run: dotnet test d:/D.AI-Chain/src/Aethos.Tests.Integration/Aethos.Tests.Integration.csproj --no-build -c Release
+
+  frontend-ci:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 20
+
+    - name: Install dependencies
+      working-directory: d:/D.AI-Chain/src/Aethos.Presentation.Dashboard
+      run: npm install
+
+    - name: Build Dashboard
+      working-directory: d:/D.AI-Chain/src/Aethos.Presentation.Dashboard
+      run: npm run build
+
+  dockerization:
+    needs: [build-and-test, frontend-ci]
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Build Aethos Node Docker Image
+      run: |
+        echo "Simulating Docker Build and Push to Registry..."
+        # docker build -t luckarkman/aethos-node:latest .
+        # docker push luckarkman/aethos-node:latest

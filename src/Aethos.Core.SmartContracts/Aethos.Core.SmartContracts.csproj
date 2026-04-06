@@ -4,4 +4,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Nethereum.Contracts" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" />
+    <ProjectReference Include="..\Aethos.Math.FixedPoint\Aethos.Math.FixedPoint.csproj" />
+  </ItemGroup>
 </Project>

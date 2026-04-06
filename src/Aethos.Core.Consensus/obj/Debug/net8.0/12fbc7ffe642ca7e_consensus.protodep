@@ -1,0 +1,2 @@
+obj\Debug\net8.0\Protos/Consensus.cs \
+obj\Debug\net8.0\Protos/ConsensusGrpc.cs: Protos/consensus.proto

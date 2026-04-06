@@ -11,4 +11,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-<ItemGroup><ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" /><ProjectReference Include="..\Aethos.Math.FixedPoint\Aethos.Math.FixedPoint.csproj" /></ItemGroup></Project>
+<ItemGroup><ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" /><ProjectReference Include="..\Aethos.Math.FixedPoint\Aethos.Math.FixedPoint.csproj" /></ItemGroup>
+
+<ItemGroup>
+  <PackageReference Include="HashLib4CSharp" />
+  <PackageReference Include="MessagePack" />
+  <PackageReference Include="Microsoft.ML.OnnxRuntime" />
+</ItemGroup></Project>

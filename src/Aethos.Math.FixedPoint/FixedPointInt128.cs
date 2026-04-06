@@ -15,6 +15,8 @@ public readonly struct FixedPointInt128 : IEquatable<FixedPointInt128>
 
     public static FixedPointInt128 FromDouble(double value) => new FixedPointInt128((Int128)(value * (double)SCALE));
 
+    public static FixedPointInt128 FromFloat(float value) => FromDouble((double)value);
+
     public static FixedPointInt128 operator +(FixedPointInt128 a, FixedPointInt128 b) => new FixedPointInt128(a._raw + b._raw);
 
     public static FixedPointInt128 operator -(FixedPointInt128 a, FixedPointInt128 b) => new FixedPointInt128(a._raw - b._raw);

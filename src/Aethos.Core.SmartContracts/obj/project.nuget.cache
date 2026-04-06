@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "vOYORmgvzQY=",
+  "dgSpecHash": "23jA7MztsuI=",
   "success": true,
   "projectFilePath": "d:\\D.AI-Chain\\src\\Aethos.Core.SmartContracts\\Aethos.Core.SmartContracts.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MPLopes\\.nuget\\packages\\adraffy.ensnormalize\\0.3.1\\adraffy.ensnormalize.0.3.1.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.abi\\6.1.0\\nethereum.abi.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.contracts\\6.1.0\\nethereum.contracts.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.hex\\6.1.0\\nethereum.hex.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.jsonrpc.client\\6.1.0\\nethereum.jsonrpc.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.merkle.patricia\\6.1.0\\nethereum.merkle.patricia.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.model\\6.1.0\\nethereum.model.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.rlp\\6.1.0\\nethereum.rlp.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.rpc\\6.1.0\\nethereum.rpc.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.util\\6.1.0\\nethereum.util.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.util.rest\\6.1.0\\nethereum.util.rest.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

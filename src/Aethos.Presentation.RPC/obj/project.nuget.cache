@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "N5J5C8/e1C4=",
+  "dgSpecHash": "zHLC8WqyIJ8=",
   "success": true,
   "projectFilePath": "d:\\D.AI-Chain\\src\\Aethos.Presentation.RPC\\Aethos.Presentation.RPC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\MPLopes\\.nuget\\packages\\messagepack\\2.5.198\\messagepack.2.5.198.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\messagepack.annotations\\2.5.198\\messagepack.annotations.2.5.198.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.aspnetcore.signalr.stackexchangeredis\\8.0.0\\microsoft.aspnetcore.signalr.stackexchangeredis.8.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.net.stringtools\\18.0.2\\microsoft.net.stringtools.18.0.2.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.visualstudio.threading.only\\17.14.15\\microsoft.visualstudio.threading.only.17.14.15.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.visualstudio.validation\\17.13.22\\microsoft.visualstudio.validation.17.13.22.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nerdbank.messagepack\\1.0.2\\nerdbank.messagepack.1.0.2.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nerdbank.streams\\2.13.16\\nerdbank.streams.2.13.16.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.hex\\6.1.0\\nethereum.hex.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\nethereum.jsonrpc.client\\6.1.0\\nethereum.jsonrpc.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\polytype\\1.0.0\\polytype.1.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\streamjsonrpc\\2.24.84\\streamjsonrpc.2.24.84.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\system.memory\\4.6.0\\system.memory.4.6.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.0\\system.runtime.compilerservices.unsafe.6.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

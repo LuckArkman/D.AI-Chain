@@ -5,7 +5,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="AutoMapper" />
+    <PackageReference Include="FluentValidation" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" />
+    <PackageReference Include="MediatR" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" />
+    <PackageReference Include="Polly" />
     <PackageReference Include="Swashbuckle.AspNetCore" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" />
+    <ProjectReference Include="..\Aethos.Core.EVM\Aethos.Core.EVM.csproj" />
+    <ProjectReference Include="..\Aethos.Core.Governance\Aethos.Core.Governance.csproj" />
   </ItemGroup>
 </Project>

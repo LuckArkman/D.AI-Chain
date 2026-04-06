@@ -7,9 +7,12 @@
     <IsTestProject>true</IsTestProject>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="AutoFixture" />
+    <PackageReference Include="Bogus" />
     <PackageReference Include="coverlet.collector" />
     <PackageReference Include="FluentAssertions" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" />
+    <PackageReference Include="Moq" />
     <PackageReference Include="xunit" />
     <PackageReference Include="xunit.runner.visualstudio" />
   </ItemGroup>
@@ -22,5 +25,6 @@
     <ProjectReference Include="..\Aethos.Core.AI.LSTM\Aethos.Core.AI.LSTM.csproj" />
     <ProjectReference Include="..\Aethos.Core.Persistence\Aethos.Core.Persistence.csproj" />
     <ProjectReference Include="..\Aethos.Core.EVM\Aethos.Core.EVM.csproj" />
+    <ProjectReference Include="..\Aethos.Core.Consensus\Aethos.Core.Consensus.csproj" />
   </ItemGroup>
 </Project>

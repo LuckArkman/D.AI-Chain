@@ -7,14 +7,62 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "Aethos.Core.Governance/1.0.0": {
+        "dependencies": {
+          "Aethos.Math.FixedPoint": "1.0.0",
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.4"
+        },
         "runtime": {
           "Aethos.Core.Governance.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/6.0.4": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1823.26907"
+          }
+        }
+      },
+      "Aethos.Domain/1.0.0": {
+        "runtime": {
+          "Aethos.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Aethos.Math.FixedPoint/1.0.0": {
+        "dependencies": {
+          "Aethos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Aethos.Math.FixedPoint.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Aethos.Core.Governance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Logging.Abstractions/6.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-K14wYgwOfKVELrUh5eBqlC8Wvo9vvhS3ZhIvcswV2uS/ubkTRPSQsN557EZiYUSSoZNxizG+alN4wjtdyLdcyw==",
+      "path": "microsoft.extensions.logging.abstractions/6.0.4",
+      "hashPath": "microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512"
+    },
+    "Aethos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aethos.Math.FixedPoint/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
