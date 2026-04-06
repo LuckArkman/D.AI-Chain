@@ -1,5 +1,3 @@
-d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\appsettings.Development.json
-d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\appsettings.json
 d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\Aethos.Application.staticwebassets.endpoints.json
 d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\Aethos.Application.exe
 d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\Aethos.Application.deps.json

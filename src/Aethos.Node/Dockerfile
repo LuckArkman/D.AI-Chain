@@ -5,7 +5,6 @@ WORKDIR /src
 COPY ["AethosLedger.sln", "./"]
 COPY ["Aethos.Node/Aethos.Node.csproj", "Aethos.Node/"]
 COPY ["Aethos.Application/Aethos.Application.csproj", "Aethos.Application/"]
-COPY ["Aethos.Contracts.L1/Aethos.Contracts.L1.csproj", "Aethos.Contracts.L1/"]
 COPY ["Aethos.Core.AI.LSTM/Aethos.Core.AI.LSTM.csproj", "Aethos.Core.AI.LSTM/"]
 COPY ["Aethos.Core.Consensus/Aethos.Core.Consensus.csproj", "Aethos.Core.Consensus/"]
 COPY ["Aethos.Core.EVM/Aethos.Core.EVM.csproj", "Aethos.Core.EVM/"]

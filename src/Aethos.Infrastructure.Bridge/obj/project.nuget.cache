@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bd7T0T3Ijp0=",
+  "dgSpecHash": "zZ4lySISL2E=",
   "success": true,
-  "projectFilePath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
+  "projectFilePath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MPLopes\\.nuget\\packages\\adraffy.ensnormalize\\0.3.1\\adraffy.ensnormalize.0.3.1.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\bouncycastle.cryptography\\2.5.1\\bouncycastle.cryptography.2.5.1.nupkg.sha512",

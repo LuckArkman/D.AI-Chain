@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj": {}
+    "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj": {}
   },
   "projects": {
-    "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj": {
+    "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
+        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
         "projectName": "Aethos.Infrastructure.Bridge",
-        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
+        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\obj\\",
+        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
