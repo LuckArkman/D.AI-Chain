@@ -1,0 +1,52 @@
+version: '3.8'
+
+services:
+  # O Nó Gênesis da Camada 2 (Roda a EVM e LSTM localmente)
+  aethos-sequencer:
+    build:
+      context: .
+      dockerfile: Aethos.Node/Dockerfile
+    container_name: aethos-genesis-node
+    ports:
+      - "5000:5000" # Exposição do RPC L2 + SignalR
+    volumes:
+      - aethos_sequencer_data:/app/AethosStateData
+    networks:
+      - aethos_mesh
+    restart: on-failure
+
+  # O Nó Validador 01 (Cria a rede Distribuída e sincroniza estado na mesma Mainnet)
+  aethos-validator-01:
+    build:
+      context: .
+      dockerfile: Aethos.Node/Dockerfile
+    container_name: aethos-validator-1
+    ports:
+      - "5001:5000"
+    volumes:
+      - aethos_validator1_data:/app/AethosStateData
+    networks:
+      - aethos_mesh
+    depends_on:
+      - aethos-sequencer
+
+  # Dashboard de Shadow Mode Administrativo
+  aethos-dashboard:
+    build:
+      context: ./Aethos.UI.Dashboard
+      dockerfile: Dockerfile
+    container_name: aethos-dashboard-ui
+    ports:
+      - "3000:80"
+    networks:
+      - aethos_mesh
+    depends_on:
+      - aethos-sequencer
+
+networks:
+  aethos_mesh:
+    driver: bridge
+
+volumes:
+  aethos_sequencer_data:
+  aethos_validator1_data:

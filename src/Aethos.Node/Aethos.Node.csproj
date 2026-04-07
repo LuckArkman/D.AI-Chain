@@ -1,9 +1,41 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
-    <PropertyGroup>
-        <TargetFramework>net8.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-    </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" />
+    <ProjectReference Include="..\Aethos.Core.Persistence\Aethos.Core.Persistence.csproj" />
+    <ProjectReference Include="..\Aethos.Core.EVM\Aethos.Core.EVM.csproj" />
+    <ProjectReference Include="..\Aethos.Presentation.RPC\Aethos.Presentation.RPC.csproj" />
+    <ProjectReference Include="..\Aethos.Core.Consensus\Aethos.Core.Consensus.csproj" />
+    <ProjectReference Include="..\Aethos.Core.SmartContracts\Aethos.Core.SmartContracts.csproj" />
+    <ProjectReference Include="..\Aethos.Core.Governance\Aethos.Core.Governance.csproj" />
+    <ProjectReference Include="..\Aethos.Application\Aethos.Application.csproj" />
+    <ProjectReference Include="..\Aethos.Infrastructure.Cache\Aethos.Infrastructure.Cache.csproj" />
+    <ProjectReference Include="..\Aethos.Infrastructure.Bridge\Aethos.Infrastructure.Bridge.csproj" />
+    <ProjectReference Include="..\Aethos.SDK\Aethos.SDK.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" />
+    <PackageReference Include="OpenTelemetry.Exporter.Prometheus.AspNetCore" />
+    <PackageReference Include="OpenTelemetry.Extensions.Hosting" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore" />
+    <PackageReference Include="OpenTelemetry.Instrumentation.Runtime" />
+    <PackageReference Include="SecurityCodeScan.VS2019">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="SonarAnalyzer.CSharp">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" />
+  </ItemGroup>
 
 </Project>

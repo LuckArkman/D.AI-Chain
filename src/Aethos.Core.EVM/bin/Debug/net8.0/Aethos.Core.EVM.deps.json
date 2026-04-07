@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aethos.Core.EVM/1.0.0": {
+        "dependencies": {
+          "Aethos.Core.Persistence": "1.0.0",
+          "Aethos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Aethos.Core.EVM.dll": {}
+        }
+      },
+      "Aethos.Core.Persistence/1.0.0": {
+        "dependencies": {
+          "Aethos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Aethos.Core.Persistence.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Aethos.Domain/1.0.0": {
+        "runtime": {
+          "Aethos.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aethos.Core.EVM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aethos.Core.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Aethos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

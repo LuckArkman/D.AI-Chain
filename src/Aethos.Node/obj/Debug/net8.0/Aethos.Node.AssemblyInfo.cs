@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aethos.Node")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6fa91812be806ae8b441d60ff0dbdbed71fe5790")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc4d1e3bd021329f212e10b71daadcd43b75f8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aethos.Node")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aethos.Node")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

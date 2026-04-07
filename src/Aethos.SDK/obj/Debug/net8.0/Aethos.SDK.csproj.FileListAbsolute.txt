@@ -1,0 +1,13 @@
+d:\D.AI-Chain\src\Aethos.SDK\bin\Debug\net8.0\Aethos.SDK.deps.json
+d:\D.AI-Chain\src\Aethos.SDK\bin\Debug\net8.0\Aethos.SDK.dll
+d:\D.AI-Chain\src\Aethos.SDK\bin\Debug\net8.0\Aethos.SDK.pdb
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\Aethos.SDK.GeneratedMSBuildEditorConfig.editorconfig
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\Aethos.SDK.AssemblyInfoInputs.cache
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\Aethos.SDK.AssemblyInfo.cs
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\Aethos.SDK.csproj.CoreCompileInputs.cache
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\Aethos.SDK.sourcelink.json
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\Aethos.SDK.dll
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\refint\Aethos.SDK.dll
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\Aethos.SDK.pdb
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\ref\Aethos.SDK.dll
+d:\D.AI-Chain\src\Aethos.SDK\obj\Debug\net8.0\Aethos.SDK.csproj.AssemblyReference.cache

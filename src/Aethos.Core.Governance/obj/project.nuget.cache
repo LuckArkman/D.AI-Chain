@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/NQsbngwrrc=",
+  "success": true,
+  "projectFilePath": "d:\\D.AI-Chain\\src\\Aethos.Core.Governance\\Aethos.Core.Governance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.4\\microsoft.extensions.logging.abstractions.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

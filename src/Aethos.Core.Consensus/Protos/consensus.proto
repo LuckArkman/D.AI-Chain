@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option csharp_namespace = "Aethos.Core.Consensus.Grpc";
+
+package consensus;
+
+service ConsensusP2P {
+  rpc ProposeBlock (BlockProposal) returns (BlockVote);
+  rpc BroadcastVote (BlockVote) returns (Ack);
+}
+
+message BlockProposal {
+  string blockHash = 1;
+  uint64 blockNumber = 2;
+  string sequencerSignature = 3;
+  string porHash = 4;
+}
+
+message BlockVote {
+  string blockHash = 1;
+  string validatorAddress = 2;
+  bool approved = 3;
+  string signature = 4;
+}
+
+message Ack {
+  bool success = 1;
+}

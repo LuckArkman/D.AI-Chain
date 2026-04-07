@@ -1,0 +1,12 @@
+d:\D.AI-Chain\src\Aethos.Domain\bin\Debug\net8.0\Aethos.Domain.deps.json
+d:\D.AI-Chain\src\Aethos.Domain\bin\Debug\net8.0\Aethos.Domain.dll
+d:\D.AI-Chain\src\Aethos.Domain\bin\Debug\net8.0\Aethos.Domain.pdb
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.AssemblyInfoInputs.cache
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.AssemblyInfo.cs
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.csproj.CoreCompileInputs.cache
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.sourcelink.json
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.dll
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\refint\Aethos.Domain.dll
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.pdb
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\ref\Aethos.Domain.dll
