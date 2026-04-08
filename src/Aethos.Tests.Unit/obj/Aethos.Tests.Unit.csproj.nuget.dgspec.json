@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\Aethos.Tests.Unit.csproj": {}
+    "D:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\Aethos.Tests.Unit.csproj": {}
   },
   "projects": {
-    "d:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj",
         "projectName": "Aethos.Core.AI.LSTM",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -34,11 +34,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
               },
-              "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj"
               }
             }
           }
@@ -73,6 +73,11 @@
               "target": "Package",
               "version": "[1.24.4, )",
               "versionCentrallyManaged": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
             }
           },
           "centralPackageVersions": {
@@ -97,6 +102,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
@@ -138,14 +144,14 @@
         }
       }
     },
-    "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj",
         "projectName": "Aethos.Core.Consensus",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -168,8 +174,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
               }
             }
           }
@@ -206,6 +212,11 @@
               "target": "Package",
               "version": "[2.80.0, )",
               "versionCentrallyManaged": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
             }
           },
           "centralPackageVersions": {
@@ -230,6 +241,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
@@ -274,14 +286,14 @@
         }
       }
     },
-    "d:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj",
         "projectName": "Aethos.Core.EVM",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Core.EVM\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Core.EVM\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -304,11 +316,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj"
               },
-              "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
               }
             }
           }
@@ -328,6 +340,13 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
           "centralPackageVersions": {
             "AutoFixture": "4.18.1",
             "AutoMapper": "16.1.1",
@@ -350,6 +369,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
@@ -391,14 +411,14 @@
         }
       }
     },
-    "d:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj",
         "projectName": "Aethos.Core.Persistence",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -421,8 +441,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
               }
             }
           }
@@ -442,6 +462,13 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
           "centralPackageVersions": {
             "AutoFixture": "4.18.1",
             "AutoMapper": "16.1.1",
@@ -464,6 +491,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
@@ -505,14 +533,14 @@
         }
       }
     },
-    "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
         "projectName": "Aethos.Domain",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -552,6 +580,13 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
           "centralPackageVersions": {
             "AutoFixture": "4.18.1",
             "AutoMapper": "16.1.1",
@@ -574,6 +609,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
@@ -615,14 +651,14 @@
         }
       }
     },
-    "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj",
         "projectName": "Aethos.Math.FixedPoint",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -645,8 +681,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
               }
             }
           }
@@ -666,6 +702,13 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
           "centralPackageVersions": {
             "AutoFixture": "4.18.1",
             "AutoMapper": "16.1.1",
@@ -688,6 +731,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
@@ -729,14 +773,14 @@
         }
       }
     },
-    "d:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\Aethos.Tests.Unit.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\Aethos.Tests.Unit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\Aethos.Tests.Unit.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\Aethos.Tests.Unit.csproj",
         "projectName": "Aethos.Tests.Unit",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\Aethos.Tests.Unit.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\Aethos.Tests.Unit.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Tests.Unit\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -759,23 +803,23 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj"
               },
-              "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Consensus\\Aethos.Core.Consensus.csproj"
               },
-              "d:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.EVM\\Aethos.Core.EVM.csproj"
               },
-              "d:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Core.Persistence\\Aethos.Core.Persistence.csproj"
               },
-              "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
               },
-              "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj"
               }
             }
           }
@@ -814,6 +858,11 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.12.0, )",
+              "versionCentrallyManaged": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
               "versionCentrallyManaged": true
             },
             "Moq": {
@@ -859,6 +908,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",

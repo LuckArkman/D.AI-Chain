@@ -27,6 +27,7 @@
     <PackageVersion Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.4" />
     <PackageVersion Include="Microsoft.ML.OnnxRuntime" Version="1.24.4" />
     <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.12.0" />
+    <PackageVersion Include="MongoDB.Driver" Version="3.7.1" />
     <PackageVersion Include="Moq" Version="4.20.72" />
     <PackageVersion Include="Nethereum.Contracts" Version="6.1.0" />
     <PackageVersion Include="Nethereum.JsonRpc.Client" Version="6.1.0" />

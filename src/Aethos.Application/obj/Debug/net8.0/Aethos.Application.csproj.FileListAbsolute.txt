@@ -59,3 +59,9 @@ d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\Aethos.Core.Governance.dll
 d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\Aethos.Math.FixedPoint.dll
 d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\Aethos.Core.Governance.pdb
 d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\Aethos.Math.FixedPoint.pdb
+d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\DnsClient.dll
+d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\MongoDB.Bson.dll
+d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\MongoDB.Driver.dll
+d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\SharpCompress.dll
+d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\Snappier.dll
+d:\D.AI-Chain\src\Aethos.Application\bin\Debug\net8.0\ZstdSharp.dll

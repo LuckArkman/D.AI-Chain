@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" />
     <PackageReference Include="Nethereum.Web3" />
   </ItemGroup>
 </Project>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj": {}
+    "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj": {}
   },
   "projects": {
-    "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj",
         "projectName": "Aethos.Infrastructure.Cache",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -52,6 +52,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
+            },
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.12.14, )",
@@ -85,6 +90,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
@@ -126,14 +132,14 @@
         }
       }
     },
-    "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj",
         "projectName": "Aethos.Tests.Integration",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\Aethos.Tests.Integration.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Tests.Integration\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -156,8 +162,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Cache\\Aethos.Infrastructure.Cache.csproj"
               }
             }
           }
@@ -186,6 +192,11 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.12.0, )",
+              "versionCentrallyManaged": true
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
               "versionCentrallyManaged": true
             },
             "Moq": {
@@ -241,6 +252,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",

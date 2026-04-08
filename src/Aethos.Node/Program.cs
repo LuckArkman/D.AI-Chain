@@ -30,6 +30,7 @@ builder.Services.AddOpenTelemetry()
 builder.Services.AddHealthChecks()
     .AddCheck<RocksDbHealthCheck>("rocksdb");
 
+builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
@@ -85,4 +86,6 @@ app.MapGrpcService<ConsensusService>();
 app.MapHub<NetworkHealthHub>("/hubs/health");
 app.MapHub<TransactionFeedHub>("/hubs/transactions");
 
-app.Run();
+app.MapControllers();
+
+await app.RunAsync();

@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="MongoDB.Driver" />
     <PackageReference Include="StackExchange.Redis" />
     <PackageReference Include="StackExchange.Redis.Extensions.MsgPack" />
   </ItemGroup>

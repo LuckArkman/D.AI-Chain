@@ -10,3 +10,4 @@ d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.dll
 d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\refint\Aethos.Domain.dll
 d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.pdb
 d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\ref\Aethos.Domain.dll
+d:\D.AI-Chain\src\Aethos.Domain\obj\Debug\net8.0\Aethos.Domain.csproj.AssemblyReference.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj": {}
+    "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj": {}
   },
   "projects": {
-    "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
         "projectName": "Aethos.Infrastructure.Bridge",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\Aethos.Infrastructure.Bridge.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Infrastructure.Bridge\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -57,6 +57,11 @@
               "version": "[10.0.5, )",
               "versionCentrallyManaged": true
             },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
+            },
             "Nethereum.Merkle": {
               "target": "Package",
               "version": "[6.1.0, )",
@@ -90,6 +95,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
