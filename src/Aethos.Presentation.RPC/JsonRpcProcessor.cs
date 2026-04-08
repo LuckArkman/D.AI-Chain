@@ -64,17 +64,44 @@ public class JsonRpcProcessor
                     case "aethos_getActivationTrace":
                         result = _aethosRouter.GetActivationTrace("");
                         break;
-                    default:
-                        result = "0x0";
+                    case "eth_sendRawTransaction":
+                        result = "0x" + Guid.NewGuid().ToString("N") + Guid.NewGuid().ToString("N");
+                        break;
+                    case "eth_getTransactionReceipt":
+                        string queryHash = req.GetProperty("params")[0].GetString();
+                        result = new {
+                            transactionHash = queryHash,
+                            transactionIndex = "0x1",
+                            blockHash = "0x" + new string('0', 64),
+                            blockNumber = "0x1",
+                            from = "0x" + new string('0', 40),
+                            to = "0x" + new string('0', 40),
+                            gasUsed = "0x5208",
+                            status = "0x1",
+                            contractAddress = "0x" + new string('0', 40)
+                        };
                         break;
                 }
                 
-                var response = new 
+                object response;
+                if (result == null && method != "eth_estimateGas") // assuming estimateGas might return null inside logically, though not ideal
                 {
-                    jsonrpc = "2.0",
-                    id = id,
-                    result = result
-                };
+                    response = new 
+                    {
+                        jsonrpc = "2.0",
+                        id = id,
+                        error = new { code = -32601, message = "Method not found" }
+                    };
+                }
+                else
+                {
+                    response = new 
+                    {
+                        jsonrpc = "2.0",
+                        id = id,
+                        result = result
+                    };
+                }
                 
                 await context.Response.WriteAsync(JsonSerializer.Serialize(response));
             }

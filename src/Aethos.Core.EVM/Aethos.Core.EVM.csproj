@@ -11,4 +11,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-<ItemGroup><ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" /><ProjectReference Include="..\Aethos.Core.Persistence\Aethos.Core.Persistence.csproj" /></ItemGroup></Project>
+<ItemGroup><ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" /><ProjectReference Include="..\Aethos.Core.Persistence\Aethos.Core.Persistence.csproj" /></ItemGroup>
+
+<ItemGroup>
+  <PackageReference Include="MongoDB.Driver" />
+</ItemGroup></Project>

@@ -21,6 +21,7 @@
           "Aethos.SDK": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.0",
           "Microsoft.Extensions.Diagnostics.HealthChecks": "10.0.5",
+          "MongoDB.Driver": "3.7.1",
           "OpenTelemetry.Exporter.Prometheus.AspNetCore": "1.9.0-beta.2",
           "OpenTelemetry.Extensions.Hosting": "1.9.0",
           "OpenTelemetry.Instrumentation.AspNetCore": "1.9.0",
@@ -57,6 +58,14 @@
           "lib/net6.0/BouncyCastle.Cryptography.dll": {
             "assemblyVersion": "2.0.0.0",
             "fileVersion": "2.5.1.28965"
+          }
+        }
+      },
+      "DnsClient/1.6.1": {
+        "runtime": {
+          "lib/net5.0/DnsClient.dll": {
+            "assemblyVersion": "1.6.1.0",
+            "fileVersion": "1.6.1.0"
           }
         }
       },
@@ -815,6 +824,30 @@
           }
         }
       },
+      "MongoDB.Bson/3.7.1": {
+        "runtime": {
+          "lib/net6.0/MongoDB.Bson.dll": {
+            "assemblyVersion": "3.7.1.0",
+            "fileVersion": "3.7.1.0"
+          }
+        }
+      },
+      "MongoDB.Driver/3.7.1": {
+        "dependencies": {
+          "DnsClient": "1.6.1",
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.5",
+          "MongoDB.Bson": "3.7.1",
+          "SharpCompress": "0.30.1",
+          "Snappier": "1.0.0",
+          "ZstdSharp.Port": "0.7.3"
+        },
+        "runtime": {
+          "lib/net6.0/MongoDB.Driver.dll": {
+            "assemblyVersion": "3.7.1.0",
+            "fileVersion": "3.7.1.0"
+          }
+        }
+      },
       "MsgPack.Cli/1.0.1": {
         "dependencies": {
           "System.CodeDom": "4.4.0"
@@ -1243,6 +1276,22 @@
           }
         }
       },
+      "SharpCompress/0.30.1": {
+        "runtime": {
+          "lib/net5.0/SharpCompress.dll": {
+            "assemblyVersion": "0.30.1.0",
+            "fileVersion": "0.30.1.0"
+          }
+        }
+      },
+      "Snappier/1.0.0": {
+        "runtime": {
+          "lib/net5.0/Snappier.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "StackExchange.Redis/2.12.14": {
         "dependencies": {
           "Microsoft.Extensions.Logging.Abstractions": "10.0.5",
@@ -1468,6 +1517,14 @@
           }
         }
       },
+      "ZstdSharp.Port/0.7.3": {
+        "runtime": {
+          "lib/net7.0/ZstdSharp.dll": {
+            "assemblyVersion": "0.7.3.0",
+            "fileVersion": "0.7.3.0"
+          }
+        }
+      },
       "Aethos.Application/1.0.0": {
         "dependencies": {
           "Aethos.Core.EVM": "1.0.0",
@@ -1478,6 +1535,7 @@
           "FluentValidation.DependencyInjectionExtensions": "12.1.1",
           "MediatR": "14.1.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.24",
+          "MongoDB.Driver": "3.7.1",
           "Polly": "8.6.6",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -1492,7 +1550,8 @@
         "dependencies": {
           "Aethos.Domain": "1.0.0",
           "Google.Protobuf": "3.34.1",
-          "Grpc.AspNetCore": "2.76.0"
+          "Grpc.AspNetCore": "2.76.0",
+          "MongoDB.Driver": "3.7.1"
         },
         "runtime": {
           "Aethos.Core.Consensus.dll": {
@@ -1504,7 +1563,8 @@
       "Aethos.Core.EVM/1.0.0": {
         "dependencies": {
           "Aethos.Core.Persistence": "1.0.0",
-          "Aethos.Domain": "1.0.0"
+          "Aethos.Domain": "1.0.0",
+          "MongoDB.Driver": "3.7.1"
         },
         "runtime": {
           "Aethos.Core.EVM.dll": {
@@ -1516,7 +1576,8 @@
       "Aethos.Core.Governance/1.0.0": {
         "dependencies": {
           "Aethos.Math.FixedPoint": "1.0.0",
-          "Microsoft.Extensions.Logging.Abstractions": "10.0.5"
+          "Microsoft.Extensions.Logging.Abstractions": "10.0.5",
+          "MongoDB.Driver": "3.7.1"
         },
         "runtime": {
           "Aethos.Core.Governance.dll": {
@@ -1527,7 +1588,8 @@
       },
       "Aethos.Core.Persistence/1.0.0": {
         "dependencies": {
-          "Aethos.Domain": "1.0.0"
+          "Aethos.Domain": "1.0.0",
+          "MongoDB.Driver": "3.7.1"
         },
         "runtime": {
           "Aethos.Core.Persistence.dll": {
@@ -1540,6 +1602,7 @@
         "dependencies": {
           "Aethos.Domain": "1.0.0",
           "Aethos.Math.FixedPoint": "1.0.0",
+          "MongoDB.Driver": "3.7.1",
           "Nethereum.Contracts": "6.1.0"
         },
         "runtime": {
@@ -1550,6 +1613,9 @@
         }
       },
       "Aethos.Domain/1.0.0": {
+        "dependencies": {
+          "MongoDB.Driver": "3.7.1"
+        },
         "runtime": {
           "Aethos.Domain.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -1560,6 +1626,7 @@
       "Aethos.Infrastructure.Bridge/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Hosting": "10.0.5",
+          "MongoDB.Driver": "3.7.1",
           "Nethereum.Merkle": "6.1.0",
           "Nethereum.Web3": "6.1.0"
         },
@@ -1572,6 +1639,7 @@
       },
       "Aethos.Infrastructure.Cache/1.0.0": {
         "dependencies": {
+          "MongoDB.Driver": "3.7.1",
           "StackExchange.Redis": "2.12.14",
           "StackExchange.Redis.Extensions.MsgPack": "11.0.0"
         },
@@ -1584,7 +1652,8 @@
       },
       "Aethos.Math.FixedPoint/1.0.0": {
         "dependencies": {
-          "Aethos.Domain": "1.0.0"
+          "Aethos.Domain": "1.0.0",
+          "MongoDB.Driver": "3.7.1"
         },
         "runtime": {
           "Aethos.Math.FixedPoint.dll": {
@@ -1597,6 +1666,7 @@
         "dependencies": {
           "Aethos.Core.EVM": "1.0.0",
           "Microsoft.AspNetCore.SignalR.StackExchangeRedis": "8.0.0",
+          "MongoDB.Driver": "3.7.1",
           "Nethereum.JsonRpc.Client": "6.1.0",
           "StreamJsonRpc": "2.24.84"
         },
@@ -1609,6 +1679,7 @@
       },
       "Aethos.SDK/1.0.0": {
         "dependencies": {
+          "MongoDB.Driver": "3.7.1",
           "Nethereum.Web3": "6.1.0"
         },
         "runtime": {
@@ -1646,6 +1717,13 @@
       "sha512": "sha512-zy8TMeTP+1FH2NrLaNZtdRbBdq7u5MI+NFZQOBSM69u5RFkciinwzV2eveY6Kjf5MzgsYvvl6kTStsj3JrXqkg==",
       "path": "bouncycastle.cryptography/2.5.1",
       "hashPath": "bouncycastle.cryptography.2.5.1.nupkg.sha512"
+    },
+    "DnsClient/1.6.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4H/f2uYJOZ+YObZjpY9ABrKZI+JNw3uizp6oMzTXwDw6F+2qIPhpRl/1t68O/6e98+vqNiYGu+lswmwdYUy3gg==",
+      "path": "dnsclient/1.6.1",
+      "hashPath": "dnsclient.1.6.1.nupkg.sha512"
     },
     "FluentValidation/12.1.1": {
       "type": "package",
@@ -2046,6 +2124,20 @@
       "path": "microsoft.visualstudio.validation/17.13.22",
       "hashPath": "microsoft.visualstudio.validation.17.13.22.nupkg.sha512"
     },
+    "MongoDB.Bson/3.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZhCFCN64iZNaV6TDVNpjQ6p8M8tQvLda6ABbfrqd6XEZ3qn0pwwDJi6+DZ3xySadUwGzKR0CV3IzmHEWe/wI4Q==",
+      "path": "mongodb.bson/3.7.1",
+      "hashPath": "mongodb.bson.3.7.1.nupkg.sha512"
+    },
+    "MongoDB.Driver/3.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-p1Od3F5/lQUiYKF+o7+ommuVwK/71gbw5tu28toO1mID91cMPmdCL6EhX0K0+HwpytmMSfciI8j4688K//QcQA==",
+      "path": "mongodb.driver/3.7.1",
+      "hashPath": "mongodb.driver.3.7.1.nupkg.sha512"
+    },
     "MsgPack.Cli/1.0.1": {
       "type": "package",
       "serviceable": true,
@@ -2284,6 +2376,20 @@
       "path": "polytype/1.0.0",
       "hashPath": "polytype.1.0.0.nupkg.sha512"
     },
+    "SharpCompress/0.30.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XqD4TpfyYGa7QTPzaGlMVbcecKnXy4YmYLDWrU+JIj7IuRNl7DH2END+Ll7ekWIY8o3dAMWLFDE1xdhfIWD1nw==",
+      "path": "sharpcompress/0.30.1",
+      "hashPath": "sharpcompress.0.30.1.nupkg.sha512"
+    },
+    "Snappier/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rFtK2KEI9hIe8gtx3a0YDXdHOpedIf9wYCEYtBEmtlyiWVX3XlCNV03JrmmAi/Cdfn7dxK+k0sjjcLv4fpHnqA==",
+      "path": "snappier/1.0.0",
+      "hashPath": "snappier.1.0.0.nupkg.sha512"
+    },
     "StackExchange.Redis/2.12.14": {
       "type": "package",
       "serviceable": true,
@@ -2395,6 +2501,13 @@
       "sha512": "sha512-vW2zhkWziyfhoSXNf42mTWyilw+vfwBGOsODDsHSFtOIY6LCgfRVUyaAilLEL4Kc1fzhaxcep5pS0VWYPSDW0w==",
       "path": "system.text.json/10.0.5",
       "hashPath": "system.text.json.10.0.5.nupkg.sha512"
+    },
+    "ZstdSharp.Port/0.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-U9Ix4l4cl58Kzz1rJzj5hoVTjmbx1qGMwzAcbv1j/d3NzrFaESIurQyg+ow4mivCgkE3S413y+U9k4WdnEIkRA==",
+      "path": "zstdsharp.port/0.7.3",
+      "hashPath": "zstdsharp.port.0.7.3.nupkg.sha512"
     },
     "Aethos.Application/1.0.0": {
       "type": "project",

@@ -208,3 +208,9 @@ d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols
 d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\Aethos.SDK.dll
 d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\Aethos.SDK.pdb
+d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\DnsClient.dll
+d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\MongoDB.Bson.dll
+d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\MongoDB.Driver.dll
+d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\SharpCompress.dll
+d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\Snappier.dll
+d:\D.AI-Chain\src\Aethos.Node\bin\Debug\net8.0\ZstdSharp.dll

@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-<ItemGroup><ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" /></ItemGroup></Project>
+<ItemGroup><ProjectReference Include="..\Aethos.Domain\Aethos.Domain.csproj" /></ItemGroup>
+
+<ItemGroup>
+  <PackageReference Include="MongoDB.Driver" />
+</ItemGroup></Project>

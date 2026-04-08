@@ -58,9 +58,9 @@ public static class DependencyInjection
 
         // Sprint 45 e 47: Bridge L1/L2 Relayer (Ethereum Finality)
         services.AddSingleton(sp => new Aethos.Infrastructure.Bridge.L1BridgeClient(
-            "https://eth-sepolia.g.alchemy.com/v2/YOUR-API-KEY", // RPC Sepolia
-            "0x-YOUR-SEQUENCER-PRIVATE-KEY", // Private Key (EM PRODUCAO USAR KES/AZURE KEY VAULT)
-            "0x-AETHOS-BRIDGE-CONTRACT-ADDRESS", // Endereço L1
+            "https://dtc-sepolia.g.alchemy.com/v2/YOUR-API-KEY", // RPC Sepolia
+            "0x0000000000000000000000000000000000000000000000000000000000000001", // Private Key dummy pra teste
+            "0x0000000000000000000000000000000000000001", // Endereço L1 dummy
             sp.GetRequiredService<ILogger<Aethos.Infrastructure.Bridge.L1BridgeClient>>()
         ));
 

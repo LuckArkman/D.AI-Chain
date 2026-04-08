@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {}
+    "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {}
   },
   "projects": {
-    "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
         "projectName": "Aethos.Domain",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -51,6 +51,13 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
           "centralPackageVersions": {
             "AutoFixture": "4.18.1",
             "AutoMapper": "16.1.1",
@@ -73,6 +80,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",
@@ -114,14 +122,14 @@
         }
       }
     },
-    "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {
+    "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj",
+        "projectUniqueName": "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj",
         "projectName": "Aethos.Math.FixedPoint",
-        "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj",
+        "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\Aethos.Math.FixedPoint.csproj",
         "packagesPath": "C:\\Users\\MPLopes\\.nuget\\packages\\",
-        "outputPath": "d:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\obj\\",
+        "outputPath": "D:\\D.AI-Chain\\src\\Aethos.Math.FixedPoint\\obj\\",
         "projectStyle": "PackageReference",
         "centralPackageVersionsManagementEnabled": true,
         "fallbackFolders": [
@@ -144,8 +152,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
-                "projectPath": "d:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
+              "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj": {
+                "projectPath": "D:\\D.AI-Chain\\src\\Aethos.Domain\\Aethos.Domain.csproj"
               }
             }
           }
@@ -165,6 +173,13 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[3.7.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
           "centralPackageVersions": {
             "AutoFixture": "4.18.1",
             "AutoMapper": "16.1.1",
@@ -187,6 +202,7 @@
             "Microsoft.Extensions.Logging.Abstractions": "6.0.4",
             "Microsoft.ML.OnnxRuntime": "1.24.4",
             "Microsoft.NET.Test.Sdk": "17.12.0",
+            "MongoDB.Driver": "3.7.1",
             "Moq": "4.20.72",
             "Nethereum.Contracts": "6.1.0",
             "Nethereum.JsonRpc.Client": "6.1.0",

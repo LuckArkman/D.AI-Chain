@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.SignalR.StackExchangeRedis" />
+    <PackageReference Include="MongoDB.Driver" />
     <PackageReference Include="Nethereum.JsonRpc.Client" />
     <PackageReference Include="StreamJsonRpc" />
   </ItemGroup>

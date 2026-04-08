@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aethos.Core.Network.RPC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fc4d1e3bd021329f212e10b71daadcd43b75f8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d02e4136907a6724078d384b9df721fd8d38ea8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aethos.Core.Network.RPC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aethos.Core.Network.RPC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

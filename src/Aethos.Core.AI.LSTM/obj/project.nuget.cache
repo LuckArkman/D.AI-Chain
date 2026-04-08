@@ -1,20 +1,32 @@
 {
   "version": 2,
-  "dgSpecHash": "gf6xHLUfzxk=",
+  "dgSpecHash": "/Xq3b++jAhU=",
   "success": true,
-  "projectFilePath": "d:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj",
+  "projectFilePath": "D:\\D.AI-Chain\\src\\Aethos.Core.AI.LSTM\\Aethos.Core.AI.LSTM.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MPLopes\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\hashlib4csharp\\1.5.0\\hashlib4csharp.1.5.0.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\messagepack\\3.1.4\\messagepack.3.1.4.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\messagepack.annotations\\3.1.4\\messagepack.annotations.3.1.4.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\messagepackanalyzer\\3.1.4\\messagepackanalyzer.3.1.4.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.ml.onnxruntime\\1.24.4\\microsoft.ml.onnxruntime.1.24.4.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.ml.onnxruntime.managed\\1.24.4\\microsoft.ml.onnxruntime.managed.1.24.4.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.net.stringtools\\17.11.4\\microsoft.net.stringtools.17.11.4.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\mongodb.bson\\3.7.1\\mongodb.bson.3.7.1.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\mongodb.driver\\3.7.1\\mongodb.driver.3.7.1.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
     "C:\\Users\\MPLopes\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512",
-    "C:\\Users\\MPLopes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+    "C:\\Users\\MPLopes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\MPLopes\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -17,4 +17,5 @@
   <PackageReference Include="HashLib4CSharp" />
   <PackageReference Include="MessagePack" />
   <PackageReference Include="Microsoft.ML.OnnxRuntime" />
+  <PackageReference Include="MongoDB.Driver" />
 </ItemGroup></Project>
